@@ -17,8 +17,8 @@ const newsletter = {
   title: <>Subscribe to {person.firstName}'s Newsletter</>,
   description: (
     <>
-      I occasionally write about design, technology, and share thoughts on the
-      intersection of creativity and engineering.
+      I occasionally write about databases, system design, technology, and share
+      thoughts on the intersection of development and engineering.
     </>
   ),
 };
@@ -52,7 +52,7 @@ const home = {
   label: 'Home',
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my work as a ${person.role}`,
-  headline: <>Backend Engineer and Developer</>,
+  headline: <>Backend Engineer and Musician.</>,
   subline: (
     <>
       I'm Joe, a backend engineer at <InlineCode>NCDF</InlineCode>, where I
